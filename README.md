@@ -1,7 +1,7 @@
 # 家庭作业(工程化jvm项目)
 
-[![vertx.io](https://img.shields.io/badge/vert.x-4.2.7-purple.svg?logo=eclipsevertdotx)](https://vertx.io)
-[![Kotlin](https://img.shields.io/badge/kotlin-1.6.10-blue.svg?logo=kotlin)](http://kotlinlang.org)
+[![Java17](https://img.shields.io/badge/java-17-blue)](https://img.shields.io/badge/java-17-blue)
+[![Gradle](https://img.shields.io/badge/gradle-v7-blue)](https://img.shields.io/badge/gradle-v7-blue)
 
 这个项目使用 http://start.vertx.io 生成，并基于面试需求改造。
 
